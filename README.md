@@ -185,5 +185,5 @@ La diferencia entre el punto 1 y el 3 fue que el request POST cumplio su funció
 
 **M. ¿Qué es un ERP?** La planificación de recursos empresariales, también conocida como ERP, es un sistema que ayuda a automatizar y administrar los procesos empresariales de distintas áreas: finanzas, fabricación, venta al por menor, cadena de suministro, recursos humanos y operaciones.
 
-**N. ¿Salesforce es un ERP?** Salesforce es un CRM ya que se involucra en la gestion ed las relaciones con los clientes, mientras que el ERP se ocupa de la planificacion de los recursos empresariales.
+**N. ¿Salesforce es un ERP?** Salesforce es un CRM ya que se involucra en la gestion en las relaciones con los clientes, mientras que el ERP se ocupa de la planificacion de los recursos empresariales.
 
