@@ -25,11 +25,15 @@ Los headers son la parte central de la comunicación http, contiene metadatos qu
 
 **5.** El responseCode es el codigo que se envia al usuario como resultado de una respuesta del servidor. El significado de cada resultado varía en razón del accionar del servidor. Estos resultados se clasifican en cinco clases:
 
- 1 Respuestas informativas
- 2 Respuestas satisfactorias
- 3 Redirecciones
- 4 Errores de los clientes
- 5 Errores de los servidores
+ - 1. Respuestas informativas
+ 
+ - 2. Respuestas satisfactorias
+ 
+ - 3. Redirecciones
+ 
+ - 4. Errores de los clientes
+ 
+ - 5. Errores de los servidores
  
 **6.** La data en un GET se manda de una manera visible, mientras que en un POST es de una forma que no se puede observar.
 
