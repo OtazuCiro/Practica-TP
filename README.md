@@ -191,3 +191,17 @@ La diferencia entre el punto 1 y el 3 fue que el request POST cumplio su funció
 
 **N. ¿Salesforce es un ERP?** Salesforce es un CRM ya que se involucra en la gestion en las relaciones con los clientes, mientras que el ERP se ocupa de la planificacion de los recursos empresariales.
 
+### Ejercicio 7: Dataloader
+
+**Primer paso:** Instalo DataLoader
+![image](https://github.com/OtazuCiro/Practica-TP/assets/118482653/89a98ee9-4ed3-4281-9b57-c9319cc7602c)
+
+**Segundo paso:** Abro el archivo de Excel y le doy formato CSV
+![image](https://github.com/OtazuCiro/Practica-TP/assets/118482653/86021d24-b230-48f4-bd06-69d17c379443)
+![image](https://github.com/OtazuCiro/Practica-TP/assets/118482653/fabc00b3-66b2-4131-b576-42160bb2677b)
+
+
+**Tercer paso:** Archivo ya importado
+[All Accounts ~ Salesforce - Developer Edition.pdf](https://github.com/OtazuCiro/Practica-TP/files/11630216/All.Accounts.Salesforce.-.Developer.Edition.pdf)
+
+Solo se me permitió importar el archivo de Cuentas, a la hora de cargar el aerchivo no aparecía la opción para Oportunidades.
